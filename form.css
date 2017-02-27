@@ -1,0 +1,138 @@
+/*
+StacyAustin 
+ITEC425
+
+*/
+body {
+    background-attachment: fixed;
+	background-color: #e3e3e3;
+	background-image: url("kurubg.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #173e43;
+	font-family: 'Arial', verdana, sans-serif;
+	font-size: 12pt;
+	margin: 50px 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+button, input{
+
+    font-size: 80px;
+
+}
+
+.icon{
+
+max-height:250px;
+max-width:250px;
+min-height:75px;
+min-width: 75px;
+
+}
+
+.contact{
+	background-color:#e3e3e3;
+}
+.gallery{
+	background-color:#e3e3e3;
+}
+.reset{
+        box-shadow: 8px 8px 5px #888888;
+
+}
+
+div {
+	background-color: #transparent;
+}
+
+.w{
+	background-color: #ffffff;
+
+
+}
+h1  {
+    background-color: #9ad3de;
+    box-shadow: 5px 5px 5px #888888;
+	border: 2px solid black;
+	color: #173e43;
+	display: inline-block;
+	font-family: 'Segoe Script', verdana, sans-serif;
+	font-size: 50px;
+	line-height: 1.8;
+	margin: auto;
+	padding: 11px;
+	text-align: center;
+	width: 600px;
+}
+
+ h2 {
+    background-color: #9ad3de;
+    box-shadow: 5px 5px 5px #888888;
+	border: 2px solid black;
+	color: #173e43;
+	display: inline-block;
+	font-family: 'Segoe Script', verdana, sans-serif;
+	font-size: 30px;
+	line-height: .8;
+	margin: auto;
+	padding: 11px;
+	text-align: center;
+	width: 600px;
+}
+
+.divNoBorder {
+	border: 0px solid black;
+	width: auto;
+}
+
+fieldset {
+	background-color: #9ad3de;
+	border: 2px solid black;
+	color: #173e43;
+	display: inline-block;
+	font-size: 18px;
+	line-height: 1.8;
+	margin: auto;
+	padding: 11px;
+	text-align: center;
+	width: 600px;
+}
+
+.fieldset-auto-width {
+	display: inline-block;
+	text-align: center;
+	width: auto;
+}
+
+footer
+{
+		background-color: #ffffff;
+		height: 80px;
+
+}
+
+iframe {
+	max-width:550px;
+}
+
+
+input, select, textarea{ 
+	max-width: 100%
+}
+
+span, ul {
+	background-color: #transparent;
+	display: inline-block;
+	text-align: center;
+}
+
+td {
+    font-family: arial, verdana, sans-serif;
+    background-color: #ffffff;
+       
+
+}
+}

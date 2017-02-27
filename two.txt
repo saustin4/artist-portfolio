@@ -1,0 +1,7 @@
+<!-- 
+Stacy Austin
+ITEC425 Final Project 
+Artist site 
+-->
+
+<img src="images/paintings/cavemen.jpg" alt="" height="400" width="300">

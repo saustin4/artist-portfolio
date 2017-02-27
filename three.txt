@@ -1,0 +1,7 @@
+<!-- 
+Stacy Austin
+ITEC425 Final Project 
+Artist site 
+-->
+
+<img src="images/paintings/35271_419838698157_7095655_n.jpg" alt="" height="400" width="300">
